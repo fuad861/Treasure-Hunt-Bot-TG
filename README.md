@@ -95,5 +95,3 @@ Xəta olarsa, node index.js ilə lokal test edin.
 
 
 @hunt1_bot
-
-
